@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the paper-traders, humbly offer'd to the honourable House of Commons</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18694</idno><idno type="EEBO-CITATION">99832028</idno>
+  <idno type="VID">198856</idno>
+  <idno type="EEBO-PROQUEST">2240915028</idno>
+  
+            <idno type="STC">Wing C1126</idno>
+            <idno type="PROQUEST">99832028</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832028e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198856)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the paper-traders, humbly offer'd to the honourable House of Commons</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696/7]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With docket title: Paper-traders case.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term type="topical_term">Tariff on paper --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:198856:1"/>
+            <head>THE CASE OF THE Paper-Traders,</head>
+            <head>Humbly offer'd to the Honourable House of Commons.</head>
+            <p>WHEREAS there is a Bill now depending, for laying 25 <hi> l. per Cent.</hi> upon Paper, Parch<g ref="char:EOLhyphen"/>ment, Vellum and Pastboard to be imported; 20 <hi> l. per Cent.</hi> on English Paper, <hi>&amp;c.</hi> and 17 <hi>l.</hi> 10 <hi> s. per Cent.</hi> on those Goods now (in Merchants and other Hands) to be sold; It's humbly conceiv'd that this Imposition will not raise 18000 <hi> l. per Annum,</hi> should the Consumption be as great as of late Years.</p>
+            <p>This will appear by considering the Annual Value made here, and imported the two last Years.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>There are not above 100 Paper-Mills, (the Company's excepted) which making Brown-paper, and the coarfest White, do not one with another annually make 200 <hi>l.</hi> worth, the Du<g ref="char:EOLhyphen"/>ty of this intended Imposition will be</cell>
+                     <cell>4000</cell>
+                  </row>
+                  <row>
+                     <cell>The Company do make about 8000 <hi> l. per Ann.</hi> the Duty on which will be</cell>
+                     <cell>1600</cell>
+                  </row>
+                  <row>
+                     <cell>The Vellum, Parchment and Pastboard made and expended here the last Year was not above 10000 <hi>l.</hi> and the Duty will be</cell>
+                     <cell>2000</cell>
+                  </row>
+                  <row>
+                     <cell>The Paper last Year imported was not worth 40000 <hi>l.</hi> (and much less will be brought in if this Duty be laid) and the Duty thereon will raise</cell>
+                     <cell>10000</cell>
+                  </row>
+                  <row>
+                     <cell>The Total</cell>
+                     <cell>17600</cell>
+                  </row>
+               </table>
+            </p>
+            <p>As for the Duty to be paid by Merchants and others for the Goods now in their Hands to be sold, this will raise an inconsiderable Sum; for it's reasonable to suppose that none but Mer<g ref="char:EOLhyphen"/>chants and Wholesale Stationers will be affected with this Duty, (seeing the Charge of Col<g ref="char:EOLhyphen"/>lecting from Retailers, dispersed throughout all Cities, Towns and considerable Villages in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> would be much more than the Tax thereby rais'd) and of these there are not above 35, in whose Hands there will not in all probability be found 16000 <hi>l.</hi> worth of these Goods. The Duty whereof, at 17 <hi>l.</hi> 10 <hi> s. per Cent.</hi> will be 2800</p>
+            <p>The Collection (in all Respects consider'd) will be chargeable to his Majesty, troublesome to his Officers, and very vexatious to the Makers, Merchants and Stationers.</p>
+            <p>But considering how much less will be consumed, if this Duty be laid, it's reasonable to think that the clear Tax next Year will searce raise 10000 <hi>l.</hi> and that for these Reasons.</p>
+            <p>
+               <hi>First,</hi> The Paper-makers are generally very Poor, and now can scarce maintain their Families; but when (as by this Bill required) they must pay, or give Security for the Duty, before they Sell, this Ma<g ref="char:EOLhyphen"/>nufacture will be so much lessen'd, that most of the Mills must be ruin'd, and the Makers with their Families become a Charge to their respective Parishes. The same may be said of the Parchment-makers.</p>
+            <p>
+               <hi>Secondly;</hi> The Printing Trade now consumes the greatest part of the Paper; but if this Duty be laid, the Consumption will not be the half of what it now is, few Books (but what are of absolute Ne<g ref="char:EOLhyphen"/>cessity) being now printed, by reason of the present Advance upon Paper, much less will then be able to bear the Charge of the Press, when so great a Duty shall be laid upon the Commodity. This will ruin some hundreds of Booksellers, Bookbinders, Printers, and others depending on that Trade. These things considered, the Decay will much reduce the Duty.</p>
+            <p>As for the Tax upon Goods now in Merchants and other Hands; for this (as is humbly conceived) there is no Precedent. In all Customs and Excise, there never yet was such a Retrospection: For tho it may be urg'd, that those possess'd of these Goods, would raise their Price proportionable to this Du<g ref="char:EOLhyphen"/>ty, altho by them not paid; yet it is to be consider'd, that those Merchants and Stationers will have Quantities of these Goods when the Duty ceases, and consequently their then Loss will be as great as their now Gain. Also they will hereby be liable to pay 17 <hi>l.</hi> 10 <hi> s. per Cent.</hi> for the Duty of 10 <hi> l. per Cent.</hi> already paid for Customs upon the Goods now in their possession.</p>
+            <p>Wherefore it's humbly hop'd that this Honourable House will think of some more effectual M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>thod for the Sum hereby intended.</p>
+            <p>All which is humbly submitted to the Great Wisdom and Impartial Justice of Honourable House.</p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:198856:2"/>
+            <p>Paper-Traders CASE.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
